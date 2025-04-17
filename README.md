@@ -166,6 +166,12 @@ k. (11) 法律法规规定的其他情形。
     用途和目的：
         减少App崩溃、提供稳定可靠的服务
 
+24、应用集成友盟+移动统计SDK(com.umeng.analytics)：SDK名称：友盟+移动统计SDK 开发者:友盟同欣（北京）科技有限公司 SDK隐私政策链接：https://www.umeng.com/page/policy
+
+25、应用集成抖音SDK（安卓版）(com.bytedance.android.dy.sdk) SDK名称：抖音SDK（安卓版） 开发者:北京微播视界科技有限公司 SDK隐私政策链接：https://developer.open-douyin.com/docs/resource/zh-CN/dop/operation-standard/service-protocol/douyinsdk_pingtaiyinsizhengce
+
+26、应用集成穿山甲广告SDK(com.bytedance.sdk.openadsdk) SDK名称：穿山甲广告SDK 开发者:北京巨量引擎网络技术有限公司 SDK隐私政策链接：https://www.csjplatform.com/privacy
+
 三、我们如何使用 本地存储和同类技术
 
 比如我们会存储你选择背景色到你本地，用来背景色记忆化。
